@@ -1,0 +1,1 @@
+/Users/vinay.kumar/Desktop/Learnings/Rust-Fundaments/13.\ FP\ -\ Closures\ and\ Iterators/target/debug/FP: /Users/vinay.kumar/Desktop/Learnings/Rust-Fundaments/13.\ FP\ -\ Closures\ and\ Iterators/src/main.rs
