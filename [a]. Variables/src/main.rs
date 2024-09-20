@@ -8,7 +8,7 @@ fn main() {
     a = a + 1;
     println!("Number {}", a);
 
-    // Constant varibles should have the hardcoded value and type beforehand.
+    // Constant variables should have the hardcoded value and type beforehand.
     const MAX_LIMIT: i32 = 300;
     println!("Max Limit is {}", MAX_LIMIT);
 
