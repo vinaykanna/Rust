@@ -1,1 +1,1 @@
-/Users/vinay.kumar/Desktop/Learnings/Rust-Fundaments/[a].\ Variables/target/debug/fundamentals: /Users/vinay.kumar/Desktop/Learnings/Rust-Fundaments/[a].\ Variables/src/main.rs
+/Users/vinay.kumar/Desktop/Learnings/Rust-Fundamentals/[a].\ Variables/target/debug/fundamentals: /Users/vinay.kumar/Desktop/Learnings/Rust-Fundamentals/[a].\ Variables/src/main.rs
