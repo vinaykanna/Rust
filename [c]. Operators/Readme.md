@@ -37,5 +37,3 @@ Operators in programming are symbols or keywords that perform operations on one 
 4. `~` (bitwise NOT)
 5. `<<` (left shift)
 6. `>>` (right shift)
-
-
